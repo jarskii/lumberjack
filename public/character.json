@@ -1,0 +1,9 @@
+{
+  "player": {
+    "sprite": "hero.png",
+    "position": {
+      "x": 200,
+      "y": 200
+    }
+  }
+}

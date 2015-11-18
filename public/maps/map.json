@@ -1,0 +1,178 @@
+{
+  "objects": [
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 1020,
+        "y": 500
+      }
+    },
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 300,
+        "y": 400
+      }
+    },
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 330,
+        "y": 450
+      }
+    },
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 670,
+        "y": 230
+      }
+    },
+    {
+      "type": "BigTree",
+      "collision": 50,
+      "position": {
+        "x": 500,
+        "y": 110
+      }
+    },
+    {
+      "type": "SmallTree",
+      "position": {
+        "x": 124,
+        "y": 245
+      }
+    },
+    {
+      "type": "SmallTree",
+      "collision": 20,
+      "position": {
+        "x": 633,
+        "y": 533
+      }
+    },
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 254,
+        "y": 878
+      }
+    },
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 554,
+        "y": 778
+      }
+    },
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 454,
+        "y": 778
+      }
+    },
+    {
+      "type": "Oak",
+      "collision": 40,
+      "position": {
+        "x": 524,
+        "y": 78
+      }
+    },
+    {
+      "type": "BigTree",
+      "collision": 50,
+      "position": {
+        "x": 500,
+        "y": 110
+      }
+    },
+    {
+      "type": "SmallTree",
+      "position": {
+        "x": 900,
+        "y": 600
+      }
+    },
+    {
+      "type": "SmallTree",
+      "collision": 20,
+      "position": {
+        "x": 1200,
+        "y": 800
+      }
+    },
+    {
+      "type": "SmallTree",
+      "collision": 20,
+      "position": {
+        "x": 1300,
+        "y": 710
+      }
+    },
+    {
+      "type": "FlowerW",
+      "position": {
+        "x": 1300,
+        "y": 710
+      }
+    },
+    {
+      "type": "FlowerW",
+      "position": {
+        "x": 1000,
+        "y": 1000
+      }
+    },
+    {
+      "type": "FlowerW",
+      "position": {
+        "x": 1100,
+        "y": 1900
+      }
+    },
+    {
+      "type": "FlowerW",
+      "position": {
+        "x": 1343,
+        "y": 799
+      }
+    },
+    {
+      "type": "FlowerW",
+      "position": {
+        "x": 976,
+        "y": 789
+      }
+    },
+    {
+      "type": "FlowerR",
+      "position": {
+        "x": 1700,
+        "y": 500
+      }
+    },
+    {
+      "type": "FlowerR",
+      "position": {
+        "x": 1200,
+        "y": 50
+      }
+    },
+    {
+      "type": "FlowerW",
+      "position": {
+        "x": 1120,
+        "y": 610
+      }
+    }
+  ]
+}

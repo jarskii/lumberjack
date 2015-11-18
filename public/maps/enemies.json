@@ -1,0 +1,33 @@
+{
+  "list": [
+    {
+      "name": "Bear",
+      "startPos": {
+        "x": 1050,
+        "y": 1032
+      },
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "hp": 100,
+      "speed": 6,
+      "gif": {
+        "right": {
+          "attack": "/public/sprite/bear-animal-sprite/Right/attack.gif",
+          "run": "/public/sprite/bear-animal-sprite/Right/run.gif",
+          "still": "/public/sprite/bear-animal-sprite/Right/still.gif",
+          "die": "/public/sprite/bear-animal-sprite/Right/die.gif"
+        },
+        "left": {
+          "attack": "/public/sprite/bear-animal-sprite/Left/attack.gif",
+          "run": "/public/sprite/bear-animal-sprite/Left/run.gif",
+          "still": "/public/sprite/bear-animal-sprite/Left/still.gif",
+          "die": "/public/sprite/bear-animal-sprite/Left/die.gif"
+        }
+      },
+      "image": null,
+      "lucky": 10
+    }
+  ]
+}
